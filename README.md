@@ -4,7 +4,7 @@
 The purpose of this project was to automate the tasks of reviewing yearly volume and return on a group of stocks
 running from 2017 to 2018.
 
-##Results
+## Results
 
 ### 2017 vs 2018
 Overall 2017 was a much more high performing year for these stocks as compared to 2018.
